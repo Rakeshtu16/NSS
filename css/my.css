@@ -1,0 +1,110 @@
+.main {
+    margin-top: 60px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.img-gallery {
+    width: 275px;
+    height: auto;
+    margin: 2px;
+    border-radius: 3px;
+}
+
+.md-36 {
+    font-size: 36px;
+}
+
+.designer {
+    padding: 10px;
+    background-color: rgba(199, 183, 183, 0.2);
+    height: 50px;
+}
+
+.btn-custom:hover {
+    background-color: white;
+    color: #0056b3;
+    border: 1px solid #0056b3;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.contactus {
+    padding: 70px;
+    background-color: rgba(209, 196, 196, 0.2);
+    height: auto;
+}
+
+.aboutus {
+    padding: 70px;
+    height: auto;
+}
+
+.events {
+    padding: 70px;
+    background-color: rgba(209, 196, 196, 0.2);
+    height: auto;
+}
+
+.gallery {
+    padding: 70px;
+    height: auto;
+}
+
+.slider {
+    width: 100%;
+    height: auto;
+}
+
+.row1{
+    width: 200px;
+}
+
+.v1{
+    border-left: 4px solid blue;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.img{
+    border-radius: 500px;
+    width: 200px;
+    height: 300px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 10px 14px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
+ /* Checkbox With multiple Select */
+
